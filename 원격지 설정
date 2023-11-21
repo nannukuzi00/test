@@ -22,7 +22,8 @@
 
 4. git remote remove <원격지명>
 
-5. git push <원격지명> <로컬 브랜치명>
+5. git push <원격지명> <원격지 브랜치명>
+- 현재 checkout된 브랜치를 지정 원격지에 업로드
 
 ※ 주의 사항
 - git config --global user.email은 가급적 git-hub 이메일과 동일하게 세팅
